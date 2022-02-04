@@ -1,0 +1,59 @@
+{
+	"song": {
+		"speed": 2.3,
+		"stage": "bg",
+		"player1": "bf",
+		"player2": "scott",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"MoveArrow",
+						"0",
+						"1000, 1000, 789, 1, 3"
+					]
+				]
+			],
+			[
+				83.3333333333333,
+				[
+					[
+						"MoveArrow",
+						"1",
+						"1000, 1000, 789, 1, 3"
+					]
+				]
+			],
+			[
+				166.666666666667,
+				[
+					[
+						"MoveArrow",
+						"2",
+						"1000, 1000, 789, 1, 3"
+					]
+				]
+			],
+			[
+				250,
+				[
+					[
+						"MoveArrow",
+						"3",
+						"1000, 1000, 789, 1, 3"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 180,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "scott"
+	}
+}
